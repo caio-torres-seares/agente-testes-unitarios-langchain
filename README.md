@@ -20,8 +20,8 @@ Siga os passos abaixo para configurar e executar o agente em sua máquina local.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-cd SEU-REPOSITORIO
+git clone https://github.com/caio-torres-seares/agente-testes-unitarios-langchain.git
+cd agente-testes-unitarios-langchain
 ```
 
 ### 2. Criar e Ativar o Ambiente Virtual
